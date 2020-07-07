@@ -1,6 +1,7 @@
 #!/bin/bash
 
-HOSTIP=192.168.0.134
+
+source ./config
 
 install_4x4evo () {
 
